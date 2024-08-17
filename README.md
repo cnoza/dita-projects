@@ -1,4 +1,7 @@
 # dita-projects
+
+Forked from https://github.com/axxepta/dita-projects.
+
 Sample DITA project, *Trello Guide*, with multiple maps, from simple to complex structure and architecture.
 
 Open _trello.xpr_ in oXygen Editor.
